@@ -1,4 +1,4 @@
-# CinemaApp
+# CineMax
 
 Aplicación web para descubrir películas con recomendaciones personalizadas mediante IA.
 
